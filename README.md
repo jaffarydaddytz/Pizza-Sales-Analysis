@@ -14,7 +14,7 @@ This Power BI project analyzes various aspects of piza sales to provide valuable
 2. **Total Revenue** - The total sales revenue generated from piza orders.
 
 
-![Piza Sales Trends](./piza_sales_trends.PNG)
+![Piza Sales Trends](./sales_trends.PNG)
 
 ---
 
@@ -24,12 +24,12 @@ This Power BI project analyzes various aspects of piza sales to provide valuable
 2. **Least-Selling Piza Types** - Identifying pizas with low demand.
 
 
-![Piza Sales Dashboard](./piza_sales.PNG)
+![Piza Sales Dashboard](./pizasales.PNG)
 
 ---
 
 ### 📉 Piza Sales Report
-[📄 Download Piza Sales Analysis Report (PDF)](./Pizza Sales Analysis.pdf)
+[📄 Download Piza Sales Analysis Report (PDF)](./pizasales.pdf)
 
 
 ---
